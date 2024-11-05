@@ -1,13 +1,13 @@
 #StopUsingCrackedPlugin
 #ngưng_sử_dụng_plugin_crack
 
-## Plugin Không Chính Thống Là Gì?
+# Plugin Không Chính Thống Là Gì?
 
  - Plugin leak/crack/null *(ở đây tạm gọi chung là "plugin không chính thống")* là những plugin bị phát tán, chia sẻ, hoặc chỉnh sửa lại mà không có sự cho phép của tác giả / nhóm phát triển gốc.
  - Thông thường, các plugin này được chia sẻ trên các diễn đàn, trang web *(Một số web nổi bật: Di??ctLeaks, Bl???Spigot, Nu??Forum, ...)* hoặc qua các máy chủ cộng đồng Discord *(Một số cộng đồng nổi bật: Ne??? Studio, ...)*, ...
  - Chắc hẳn sẽ có một số người với lối suy nghĩ như này: "Dùng plugin leak đi, vừa miễn phí vừa giống bản gốc chắc chả sao đâu"/ "dùng tạm rồi khi nào có tiền rồi mua sau". Nhưng bạn gì ơi chắc gì bạn đã mua plugin chính thống khi có tiền và những tác hại khi gặp backdoor, exploit (force-op, ...). Mất hết tất cả những gì mình đã gây dựng rồi phải làm lại hoàn toàn tự đầu? 
 
-## Bảng Tóm Tắt
+# Bảng Tóm Tắt
 > Quan điểm mang tính chủ quan của mình.
 
 |                |Plugin Chính Thống             |Plugin Không Chính Thống                         
@@ -26,7 +26,7 @@
 
 (IV) *Thường các plugin không chính thống sẽ tiêm ("inject") hoặc thay đổi các đoạn mã. Có thể làm lỗi plugin hoặc không chạy được.*
 
-## Một Số Tác Hại & Hình Ảnh Minh Hoạ
+# Một Số Tác Hại & Hình Ảnh Minh Hoạ
 
 ![ex1](https://i.imgur.com/L3UysSN.png)
 
@@ -53,7 +53,7 @@
 *nguồn: [Một bài đăng trong nhóm Facebook](https://www.facebook.com/share/mmaBtSsoMd2Y5vAu/); một chủ server đăng bài tố studio tên N cung cấp sản phẩm chứa backdoor dẫn đến máy chủ bị phá hoại*
 
 
-## Một số nơi an toàn để lấy và sử dụng plugin
+# Một số nơi an toàn để lấy và sử dụng plugin
 > Đây chỉ là một số trang uy tín và nhiều người dùng, không có nghĩa là các trang khác không có trong danh sách này là không an toàn.
  - https://www.spigotmc.org/
  - https://polymart.org/
@@ -61,8 +61,8 @@
  - https://modrinth.com/
  - https://hangar.papermc.io/
 
-## Một số cách để lấy plugin trả phí miễn phí nhưng vẫn hợp pháp
+# Một số cách để lấy plugin trả phí miễn phí nhưng vẫn hợp pháp
 > Đây chỉ là một số cách thay thế, không đảm bảo 100% hoạt động.
  - **Một số plugin** có để link source code và bạn có thể tự compile chúng qua Maven/Gradle (điển hình như: [zEssentials](https://github.com/Maxlego08/zEssentials), [Oraxen](https://github.com/oraxen/oraxen), ...)
  - Tự code bằng Java hoặc Kotlin hoặc thông qua một số plugin như [Skript](https://github.com/SkriptLang/Skript)
- - Sử dụng plugin có chức năng tương tự nhưng miễn phí (Ví dụ: [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) -> [AdvancedBan](https://www.spigotmc.org/resources/advancedban.8695/)))
+ - Sử dụng plugin có chức năng tương tự nhưng miễn phí (Ví dụ: [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) -> [AdvancedBan](https://www.spigotmc.org/resources/advancedban.8695/))
