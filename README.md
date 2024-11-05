@@ -8,6 +8,7 @@
  - Chắc hẳn sẽ có một số người với lối suy nghĩ như này: "Dùng plugin leak đi, vừa miễn phí vừa giống bản gốc chắc chả sao đâu"/ "dùng tạm rồi khi nào có tiền rồi mua sau". Nhưng bạn gì ơi chắc gì bạn đã mua plugin chính thống khi có tiền và những tác hại khi gặp backdoor, exploit (force-op, ...). Mất hết tất cả những gì mình đã gây dựng rồi phải làm lại hoàn toàn tự đầu? 
 
 ## Bảng Tóm Tắt
+> Quan điểm mang tính chủ quan của mình.
 
 |                |Plugin Chính Thống             |Plugin Không Chính Thống                         
 |----------------|-------------------------------|-----------------------------|
@@ -53,11 +54,15 @@
 
 
 ## Một số nơi an toàn để lấy và sử dụng plugin
- - https://www.spigotmc.org/resources/
+> Đây chỉ là một số trang uy tín và nhiều người dùng, không có nghĩa là các trang khác không có trong danh sách này là không an toàn.
+ - https://www.spigotmc.org/
  - https://polymart.org/
  - https://builtbybit.com/
+ - https://modrinth.com/
+ - https://hangar.papermc.io/
 
 ## Một số cách để lấy plugin trả phí miễn phí nhưng vẫn hợp pháp
+> Đây chỉ là một số cách thay thế, không đảm bảo 100% hoạt động.
  - **Một số plugin** có để link source code và bạn có thể tự compile chúng qua Maven/Gradle (điển hình như: [zEssentials](https://github.com/Maxlego08/zEssentials), [Oraxen](https://github.com/oraxen/oraxen), ...)
  - Tự code bằng Java hoặc Kotlin hoặc thông qua một số plugin như [Skript](https://github.com/SkriptLang/Skript)
  - Sử dụng plugin có chức năng tương tự nhưng miễn phí (Ví dụ: [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) -> [AdvancedBan](https://www.spigotmc.org/resources/advancedban.8695/)))
