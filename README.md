@@ -13,27 +13,30 @@
 |----------------|-------------------------------|-----------------------------|
 |Hỗ Trợ          |✅                             |❌(I)
 |Ủng Hộ Tác Giả  |✅                             |❌                           |
-|An Toàn (Không có malware, virus, ...)      |✅           |❌                 |
-|Cập Nhật        |✅                               |❌(II)
-|Chất Lượng & Tính Ổn Định|✅                    |❌(III)
+|An Toàn (Không có malware, virus, ...)      |✅           |❌(II)                 |
+|Cập Nhật        |✅                               |❌(III)
+|Chất Lượng & Tính Ổn Định|✅                    |❌(IV)
 
 (I) *Thường thì mọi người sẽ từ chối hỗ trợ bạn nếu bạn sử dụng plugin không chính thống.*
 
-(II) *Phải phụ thuộc vào người crack/phát tán cập nhật nên thời gian sẽ lâu hơn.*
+(II) *Phụ thuộc vào "độ uy tín" của người thực hiện crack/leak. Thường là không.*
 
-(III) *Thường các plugin không chính thống sẽ tiêm ("inject") hoặc thay đổi các đoạn mã. Có thể làm lỗi plugin hoặc không chạy được.*
+(III) *Phải phụ thuộc vào người crack/phát tán cập nhật nên thời gian sẽ lâu hơn.*
+
+(IV) *Thường các plugin không chính thống sẽ tiêm ("inject") hoặc thay đổi các đoạn mã. Có thể làm lỗi plugin hoặc không chạy được.*
 
 ## Một Số Tác Hại & Hình Ảnh Minh Hoạ
-Bị hacker chiếm đoạt dữ liệu máy chủ
 
 ![ex1](https://i.imgur.com/L3UysSN.png)
-*(cũng không hẳn là vì plugin không chính thống lắm nhưng đây cũng là một trong những điều có thể xảy ra)*
+*cũng không hẳn là vì plugin không chính thống lắm nhưng đây cũng là một trong những điều có thể xảy ra*
+
 
 ![ex2](https://i.imgur.com/K0XKycA.png)
-*(nguồn: [List Of Shame (MCVN Edition)](https://hsgamer.me/list-of-shame-mcvn/)*
+*nguồn: [List Of Shame (MCVN Edition)](https://hsgamer.me/list-of-shame-mcvn/)*
+
 
 ![ex3](https://i.imgur.com/uauAxwL.png)
-*(nguồn: [List Of Shame (MCVN Edition)](https://hsgamer.me/list-of-shame-mcvn/)*
+*nguồn: [List Of Shame (MCVN Edition)](https://hsgamer.me/list-of-shame-mcvn/); từ một máy chủ Discord cung cấp plugin*
 
 ![ex4](https://i.imgur.com/ZqknJjU.png)
-*(trích một cuộc thảo luận về việc máy chủ bị grief vì sử dụng plugin LiteBans không chính thống từ một studio tên N và malware lan truyền sang tất cả các file trong máy chủ; ngoài ra còn biết thêm nguồn gốc file crack đó)*
+*trích một cuộc thảo luận về việc máy chủ bị phá vì sử dụng plugin không chính thống từ một studio tên N và malware lan truyền sang tất cả các file trong máy chủ; ngoài ra còn biết thêm nguồn gốc file crack đó*
