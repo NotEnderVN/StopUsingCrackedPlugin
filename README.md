@@ -28,23 +28,29 @@
 ## Một Số Tác Hại & Hình Ảnh Minh Hoạ
 
 ![ex1](https://i.imgur.com/L3UysSN.png)
+
 *cũng không hẳn là vì plugin không chính thống lắm nhưng đây cũng là một trong những điều có thể xảy ra*
 
 
 ![ex2](https://i.imgur.com/K0XKycA.png)
+
 *nguồn: [List Of Shame (MCVN Edition)](https://hsgamer.me/list-of-shame-mcvn/)*
 
 
 ![ex3](https://i.imgur.com/uauAxwL.png)
+
 *nguồn: [List Of Shame (MCVN Edition)](https://hsgamer.me/list-of-shame-mcvn/); từ một máy chủ Discord cung cấp plugin*
 
 
 ![ex4](https://i.imgur.com/ZqknJjU.png)
+
 *trích một cuộc thảo luận về việc máy chủ bị phá vì sử dụng plugin không chính thống từ một studio tên N và malware lan truyền sang tất cả các file trong máy chủ; ngoài ra còn biết thêm nguồn gốc file crack đó*
 
 
 ![ex5](https://i.imgur.com/cMh4Tcz.png)
+
 *nguồn: [Một bài đăng trong nhóm Facebook](https://www.facebook.com/share/mmaBtSsoMd2Y5vAu/); một chủ server đăng bài tố studio tên N cung cấp sản phẩm chứa backdoor dẫn đến máy chủ bị phá hoại*
+
 
 ## Một số nơi an toàn để lấy và sử dụng plugin
  - https://www.spigotmc.org/resources/
