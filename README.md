@@ -1,0 +1,2 @@
+# StopUsingCrackedPlugin
+#ngưng_sử_dụng_plugin_crack
