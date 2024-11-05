@@ -1,7 +1,7 @@
 #StopUsingCrackedPlugin
 #ngưng_sử_dụng_plugin_crack
 
-# Plugin Không Chính Thống Là Gì?
+## Plugin Không Chính Thống Là Gì?
 
  - Plugin leak/crack/null *(ở đây tạm gọi chung là "plugin không chính thống")* là những plugin bị phát tán, chia sẻ, hoặc chỉnh sửa lại mà không có sự cho phép của tác giả / nhóm phát triển gốc.
  - Thông thường, các plugin này được chia sẻ trên các diễn đàn, trang web *(Một số web nổi bật: Di??ctLeaks, Bl???Spigot, Nu??Forum, ...)* hoặc qua các máy chủ cộng đồng Discord *(Một số cộng đồng nổi bật: Ne??? Studio, ...)*, ...
@@ -38,5 +38,20 @@
 ![ex3](https://i.imgur.com/uauAxwL.png)
 *nguồn: [List Of Shame (MCVN Edition)](https://hsgamer.me/list-of-shame-mcvn/); từ một máy chủ Discord cung cấp plugin*
 
+
 ![ex4](https://i.imgur.com/ZqknJjU.png)
 *trích một cuộc thảo luận về việc máy chủ bị phá vì sử dụng plugin không chính thống từ một studio tên N và malware lan truyền sang tất cả các file trong máy chủ; ngoài ra còn biết thêm nguồn gốc file crack đó*
+
+
+![ex5](https://i.imgur.com/cMh4Tcz.png)
+*nguồn: [Một bài đăng trong nhóm Facebook](https://www.facebook.com/share/mmaBtSsoMd2Y5vAu/); một chủ server đăng bài tố studio tên N cung cấp sản phẩm chứa backdoor dẫn đến máy chủ bị phá hoại*
+
+## Một số nơi an toàn để lấy và sử dụng plugin
+ - https://www.spigotmc.org/resources/
+ - https://polymart.org/
+ - https://builtbybit.com/
+
+## Một số cách để lấy plugin trả phí miễn phí nhưng vẫn hợp pháp
+ - **Một số plugin** có để link source code và bạn có thể tự compile chúng qua Maven/Gradle (điển hình như: [zEssentials](https://github.com/Maxlego08/zEssentials), [Oraxen](https://github.com/oraxen/oraxen), ...)
+ - Tự code bằng Java hoặc Kotlin hoặc thông qua một số plugin như [Skript](https://github.com/SkriptLang/Skript)
+ - Sử dụng plugin có chức năng tương tự nhưng miễn phí (Ví dụ: [LiteBans](https://www.spigotmc.org/resources/litebans.3715/) -> [AdvancedBan](https://www.spigotmc.org/resources/advancedban.8695/)))
